@@ -1,0 +1,224 @@
+# Translation of Themes - Twenty Fifteen in Khmer
+# This file is distributed under the same license as the Themes - Twenty Fifteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-07-18 11:38:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: km_KH\n"
+"Project-Id-Version: Themes - Twenty Fifteen\n"
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Fifteen"
+msgstr "Twenty Fifteen"
+
+#: single.php:37
+msgid "Previous post:"
+msgstr "ប្រកាស​មុន៖"
+
+#: single.php:36
+msgid "Previous"
+msgstr "មុន"
+
+#: single.php:34
+msgid "Next post:"
+msgstr "ប្រកាស​បន្ទាប់៖"
+
+#: single.php:33
+msgid "Next"
+msgstr "បន្ទាប់"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "លទ្ធផល​ស្វែង​រក​សម្រាប់: %s"
+
+#: inc/template-tags.php:113
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "ទំហំ​ពេញ"
+
+#: inc/template-tags.php:102
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "ស្លាក"
+
+#: inc/template-tags.php:94
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "ចំណាត់​ក្រុម"
+
+#: inc/template-tags.php:91 inc/template-tags.php:99
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:85
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "អ្នក​និពន្ធ"
+
+#: inc/template-tags.php:76
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "បាន​ផ្សាយ​នៅ"
+
+#: inc/template-tags.php:55
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "ទ្រង់ទ្រាយ"
+
+#: inc/template-tags.php:49
+msgid "Featured"
+msgstr "ដែល​ពេញ​និយម"
+
+#: inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr "មតិ​ថ្មីៗ"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "មតិ​ចាស់ៗ"
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "ការ​នាំ​ទិស​មតិ​យោបល់"
+
+#: inc/customizer.php:205
+msgid "Blue"
+msgstr "ខៀវ"
+
+#: inc/customizer.php:194
+msgid "Purple"
+msgstr "ស្វាយ"
+
+#: inc/customizer.php:183
+msgid "Pink"
+msgstr "ផ្កាឈូក"
+
+#: inc/customizer.php:172
+msgid "Yellow"
+msgstr "លឿង"
+
+#: inc/customizer.php:161
+msgid "Dark"
+msgstr "ងងឹត"
+
+#: inc/customizer.php:150
+msgid "Default"
+msgstr "លំនាំ​ដើម"
+
+#: inc/customizer.php:75
+msgid "Header and Sidebar Background Color"
+msgstr "ពណ៌​ផ្ទៃ​ក្រោយ​នៃ​ក្បាល​ទំព័រ​និង​របារ​ចំហៀង"
+
+#: image.php:24
+msgid "Next Image"
+msgstr "រូប​បន្ទាប់"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "រូប​មុន"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "រំលង​ទៅអត្ថបទ"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:204
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:196
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:188
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:85
+msgid "Primary Menu"
+msgstr "ម៉ឺនុយ​ចម្បង"
+
+#: footer.php:25
+msgid "Proudly powered by %s"
+msgstr "បាន​ឧបត្ថម្ភ​ដោយ %s"
+
+#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 1.7)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "មើល​ទៅ​យើង​មិន​អាច​រក​អ្វី ដែល​អ្នក​ចង់​បាន​នោះ​ទេ។ ប្រហែល​ការ​ស្វែង​រក​អាច​ជួយ​អ្នក​បាន។"
+
+#: content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "សូម​ទោស គ្មាន​អ្វី​ត្រូវ​នឹង​ពាក្យ​ស្វែង​រក​របស់​អ្នក​ទេ។ សូម​ព្យាយាម​ម្ដង​ទៀត​ជាមួយ​នឹង​ពាក្យ​គន្លឹះ​ផ្សេង។"
+
+#: content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "តើ​អ្នក​រួចរាល់​ក្នុង​ការ​ផ្សាយ​ប្រកាស​ដំបូង​ហើយ​ឬ​នៅ? <a href=\"%1$s\">ចាប់​ផ្ដើម​នៅ​ទីនេះ</a>។"
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "រក​មិន​ឃើញ​អ្វី​ទេ"
+
+#: content-link.php:56 content-page.php:35 content-search.php:28
+#: content-search.php:33 content.php:57 image.php:71
+msgid "Edit"
+msgstr "កែ"
+
+#: content-link.php:36 content-page.php:25 content.php:38 image.php:59
+msgid "Pages:"
+msgstr "ទំព័រ:"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "បាន​បិទ​ការ​បញ្ចេញ​មតិ។"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "យោបល់ %1$s នៅ​លើ &ldquo;%2$s&rdquo;"
+
+#: author-bio.php:34
+msgid "View all posts by %s"
+msgstr "មើល​ប្រកាស​ទាំងអស់​របស់ %s"
+
+#: archive.php:50 index.php:47 search.php:39
+msgid "Next page"
+msgstr "ទំព័រ​បន្ទាប់"
+
+#: archive.php:49 index.php:46 search.php:38
+msgid "Previous page"
+msgstr "ទំព័រមុន"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "ហាក់​ដូច​ជា​រក​មិន​ឃើញ​អ្វី​នៅ​ទីតាំង​នេះ​ទេ។ ប្រហែល​អ្នក​ចង់​សាក​ល្បង​ការ​ស្វែង​រក?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "អូ៎! រក​មិន​ឃើញ​ទំព័រ​នោះ​ទេ។"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "ក្រុម​ការងារ WordPress"

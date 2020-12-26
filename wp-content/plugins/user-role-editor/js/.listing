@@ -1,0 +1,9 @@
+drwxr-xr-x    2 camredd    camredd          4096 Mar 14  2018 .
+drwxr-xr-x    7 camredd    camredd          4096 Mar 14  2018 ..
+-rw-r--r--    1 camredd    camredd            28 May 17  2018 index.php
+-rw-r--r--    1 camredd    camredd         34149 May 17  2018 multiple-select.js
+-rw-r--r--    1 camredd    camredd          1737 May 17  2018 settings.js
+-rw-r--r--    1 camredd    camredd         24479 May 17  2018 ure.js
+-rw-r--r--    1 camredd    camredd          1902 May 17  2018 user-profile-other-roles.js
+-rw-r--r--    1 camredd    camredd          4765 May 17  2018 users-grant-roles.js
+-rw-r--r--    1 camredd    camredd          3477 May 17  2018 users.js

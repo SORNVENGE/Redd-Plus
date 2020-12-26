@@ -1,0 +1,148 @@
+# Translation of Plugins - Akismet - Stable (latest release) in Khmer
+# This file is distributed under the same license as the Plugins - Akismet - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-08-01 15:51:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: km_KH\n"
+"Project-Id-Version: Plugins - Akismet - Stable (latest release)\n"
+
+#: views/notice.php:24
+msgid "Akismet %s requires WordPress 3.0 or higher."
+msgstr "Akismet %s ត្រូវ​ការ WordPress 3.0 ឬ​ខ្ពស់​ជាង។"
+
+#: views/notice.php:94
+msgid "The key you entered is invalid. Please double-check it."
+msgstr "សោ​ដែល​អ្នក​បាន​បញ្ចូល គឺ​មិន​ត្រឹម​ត្រូវ​ទេ។ សូម​ពីនិត្យ​វា​ម្ដង​ទៀត។"
+
+#: views/notice.php:46
+msgid "Network functions are disabled."
+msgstr "មុខ​ងារ​បណ្ដាញ​ត្រូវ​បាន​បិទ។"
+
+#: views/notice.php:17
+msgid "Akismet has detected a problem."
+msgstr "Akismet បាន​រក​ឃើញ​បញ្ហា​មួយ។"
+
+#: views/notice.php:8
+msgid "Activate your Akismet account"
+msgstr "បើក​ដំណើរ​ការ​គណនី Akismet របស់​អ្នក"
+
+#: views/config.php:105
+msgid "Show approved comments"
+msgstr "បង្ហាញ​មតិ​ដែល​ត្រូវ​បាន​អនុញ្ញាត"
+
+#: views/config.php:148
+msgid "Save Changes"
+msgstr "រក្សា​ទុក​បន្លាស់​ប្ដូរ"
+
+#: class.akismet-admin.php:456
+msgid "Awaiting spam check"
+msgstr "ស្ប៉ាម​ដែល​កំពុង​រង់ចាំ​ការ​ពិនិត្យ"
+
+#: class.akismet-widget.php:12
+msgid "Akismet Widget"
+msgstr "ធាតុ​ក្រាហ្វិក Akismet"
+
+#: class.akismet-widget.php:13
+msgid "Display the number of spam comments Akismet has caught"
+msgstr "បង្ហាញ​ចំនួន​មតិ​ស្ប៉ាម​ដែល Akismet ចាប់​បាន"
+
+#: class.akismet-widget.php:102
+msgid "<strong class=\"count\">%1$s spam</strong> blocked by <strong>Akismet</strong>"
+msgid_plural "<strong class=\"count\">%1$s spam</strong> blocked by <strong>Akismet</strong>"
+msgstr[0] "<strong class=\"count\">%1$s ស្ប៉ាម</strong> ត្រូវ​បាន​ទប់​ស្កាត់​ដោយ <strong>Akismet</strong>"
+
+#: class.akismet-admin.php:86 class.akismet-admin.php:209
+#: class.akismet-admin.php:602 views/config.php:56 views/stats.php:2
+msgid "Settings"
+msgstr "កំណត់"
+
+#: class.akismet-admin.php:241
+msgid "Cheatin&#8217; uh?"
+msgstr "លេង​ល្បិច​ឬ?"
+
+#: class.akismet-admin.php:314
+msgid "<a href=\"%1$s\">Akismet</a> has protected your site from %2$s spam comment already. "
+msgid_plural "<a href=\"%1$s\">Akismet</a> has protected your site from %2$s spam comments already. "
+msgstr[0] "<a href=\"%1$s\">Akismet</a> បាន​ការពារវេប​សាយ​របស់​អ្នក​ពី​មតិ​ស្ប៉ាម​ចំនួន %2$s ។"
+
+#: class.akismet-admin.php:460
+msgid "Flagged as spam by Akismet"
+msgstr "បាន​ចំណាំ​ជា​ស្ប៉ាម​ដោយ Akismet"
+
+#: class.akismet-admin.php:480
+msgid "History"
+msgstr "ប្រវត្តិ"
+
+#: class.akismet-admin.php:302
+msgctxt "comments"
+msgid "Spam"
+msgstr "ស្ប៉ាម"
+
+#: class.akismet-admin.php:462
+msgid "Cleared by Akismet"
+msgstr "បាន​សម្អាត​ដោយ Akismet"
+
+#: class.akismet-admin.php:496
+msgid "%s approved"
+msgid_plural "%s approved"
+msgstr[0] "បាន​យល់​ព្រម %s"
+
+#: class.akismet-admin.php:556
+msgid "Akismet caught this comment as spam during an automatic retry."
+msgstr "Akismet បាន​ចាប់​មតិ​នេះ​ថា​ជា​ស្ប៉ាម កំឡុង​ពេល​ការ​ព្យាយាម​ឡើង​វិញ​ដោយ​ស្វ័យ​ប្រវត្តិ។"
+
+#: class.akismet-admin.php:576
+msgid "Comment status was changed to %s"
+msgstr "ស្ថានភាព​មតិ​ត្រូវ​បាន​ប្ដូរ​ទៅ​ជា %s"
+
+#: class.akismet-admin.php:559
+msgid "Akismet cleared this comment during an automatic retry."
+msgstr "Akismet បាន​សម្អាត​មតិ​នេះ កំឡុង​ពេល​ការ​ព្យាយាម​ឡើង​វិញ​ដោយ​ស្វ័យ​ប្រវត្តិ។"
+
+#: class.akismet-admin.php:480 class.akismet-admin.php:488
+msgid "View comment history"
+msgstr "មើល​ប្រវត្តិ​មតិ"
+
+#. #-#-#-#-#  tmp-akismet.pot (Akismet 3.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: class.akismet-admin.php:93 class.akismet-admin.php:95
+#: class.akismet-admin.php:848 views/config.php:3
+msgid "Akismet"
+msgstr "Akismet"
+
+#: class.akismet-admin.php:466
+msgid "Flagged as spam by %s"
+msgstr "បាន​កំណត់​ចំណាំ​ជា​ស្ប៉ាម​ដោយ %s"
+
+#: class.akismet-admin.php:468
+msgid "Un-spammed by %s"
+msgstr "ដក​ពីស្ប៉ាម​ដោយ %s"
+
+#: class.akismet-widget.php:69 class.akismet-widget.php:90
+msgid "Spam Blocked"
+msgstr "បាន​ទប់​ស្កាត់​ស្ប៉ាម"
+
+#: class.akismet-widget.php:74
+msgid "Title:"
+msgstr "ចំណង​ជើង:"
+
+#: class.akismet-admin.php:187 views/stats.php:2
+msgid "Akismet Stats"
+msgstr "ស្ថានភាព Akismet"
+
+#: class.akismet-admin.php:352
+msgid "Check for Spam"
+msgstr "រក​មើល​ស្ប៉ាម"
+
+#: class.akismet-admin.php:590
+msgid "%s ago"
+msgstr "%s មុន"
+
+#: class.akismet-admin.php:70
+msgid "Comment History"
+msgstr "ប្រវត្តិ​មតិ"

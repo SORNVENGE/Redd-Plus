@@ -1,0 +1,12 @@
+drwxr-xr-x   10 camredd    camredd          4096 Jul 16 11:46 .
+drwxr-x---    7 camredd    99               4096 Mar 14 08:55 ..
+-rw-r--r--    1 camredd    camredd            60 Mar 14 08:39 .htaccess
+drwxr-xr-x   25 camredd    camredd          4096 Mar 21  2018 gallery
+-rw-r--r--    1 camredd    camredd            30 Oct 10  2017 index.php
+drwxr-xr-x    4 camredd    camredd          4096 Jun 13  2018 languages
+drwxr-xr-x    3 camredd    camredd          4096 Oct 10  2017 ngg
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 ngg_styles
+drwxr-xr-x   43 camredd    camredd          4096 Apr 23  2018 plugins
+drwxr-xr-x    3 camredd    camredd          4096 Nov 17  2019 themes
+drwxr-xr-x    2 camredd    camredd          4096 Jul 16 09:41 upgrade
+drwxr-xr-x   19 camredd    camredd          4096 Jan  1  2020 uploads

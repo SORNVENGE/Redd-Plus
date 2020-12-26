@@ -1,0 +1,16 @@
+drwxr-xr-x    4 camredd    camredd          4096 Jun 13  2018 .
+drwxr-xr-x   10 camredd    camredd          4096 Jul 17 11:48 ..
+-rw-r--r--    1 camredd    camredd        298710 Jul 16 09:41 admin-km.mo
+-rw-r--r--    1 camredd    camredd        396309 Jul 16 09:41 admin-km.po
+-rw-r--r--    1 camredd    camredd         53933 Jul 16 09:41 admin-network-km.mo
+-rw-r--r--    1 camredd    camredd         67386 Jul 16 09:41 admin-network-km.po
+-rw-r--r--    1 camredd    camredd         20210 Jul 16 09:41 continents-cities-km.mo
+-rw-r--r--    1 camredd    camredd         43349 Jul 16 09:41 continents-cities-km.po
+-rw-r--r--    1 camredd    camredd        162222 Oct 10  2017 de_DE.mo
+-rw-r--r--    1 camredd    camredd           378 Oct 10  2017 en_US.mo
+-rw-r--r--    1 camredd    camredd            19 Oct 10  2017 index.php
+-rw-r--r--    1 camredd    camredd         27013 Oct 10  2017 ja_JP.mo
+-rw-r--r--    1 camredd    camredd        264981 Jul 16 09:41 km.mo
+-rw-r--r--    1 camredd    camredd        380809 Jul 16 09:41 km.po
+drwxr-xr-x    2 camredd    camredd          4096 Apr  6  2018 plugins
+drwxr-xr-x    2 camredd    camredd          4096 Oct 10  2017 themes
